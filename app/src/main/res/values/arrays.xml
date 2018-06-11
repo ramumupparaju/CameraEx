@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tabs when user select history in home screen -->
+
+    <!-- Gender dropdown options -->
+    <string-array
+        name="gender_options_list">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <!-- image capture options -->
+    <string-array
+        name="select_image_list">
+        <item>Take Photo</item>
+        <item>Choose From Gallery</item>
+        <item>Tap to view</item>
+    </string-array>
+
+
+    <!-- selecting by search-->
+    <string-array
+        name="select_search">
+        <item>Brand</item>
+        <item>Name</item>
+    </string-array>
+
+
+
+    <!-- Side MenuItems -->
+
+
+</resources>
